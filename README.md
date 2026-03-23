@@ -22,7 +22,7 @@ A predictive, real-time navigation application designed to optimize emergency ve
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/waritsanant06/Predictive-Multi-Agent-Navigation-for-Optimized-Emergency-Vehicle-Response.git
-   cd "gati web application copy"
+   cd Predictive-Multi-Agent-Navigation-for-Optimized-Emergency-Vehicle-Response
    ```
 
 2. **Install Dependencies**
